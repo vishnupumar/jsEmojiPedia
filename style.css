@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+#search-filter{
+    height: 20px;
+    width: 200px
+}
+.inputs,button{
+    height: 25px;
+}
+.inputs{
+    padding: 10px 0 20px 10px;
+}
+.listOfEmojis{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+.emoji{
+    font-size: 50px;
+}
+.Emoji-item{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 5px;
+    border: 0.1px solid #444343;
+    border-color: #444343 transparent transparent transparent;
+}
+
+.emoji-title{
+    width: 25%;
+}
+.emoji{
+    margin-right: 100px;
+    width: 10px;
+}
+
